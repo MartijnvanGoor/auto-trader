@@ -10,7 +10,7 @@
 
   TODO:
     - native move
-*/
+ */
 
 const _ = require('lodash');
 const async = require('async');
